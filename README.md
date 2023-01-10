@@ -1,4 +1,4 @@
--> It is basically cryptocurrency price tracker app.  ( https://cryptotrackk.herokuapp.com/ )
+-> It is basically a cryptocurrency price tracker app. 
 
 -> React Hook and Axios are used in this Project. 
 
